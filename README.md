@@ -2,8 +2,9 @@
 
 This project implements a toxic comment classifier using a Bidirectional LSTM neural network model. The model is trained to classify comments into multiple toxicity categories.
 
-##Demo
-![Demo Screenshot]("demo.png")
+## Demo
+
+![Demo Screenshot](demo.png)
 
 ## Files
 

@@ -2,6 +2,9 @@
 
 This project implements a toxic comment classifier using a Bidirectional LSTM neural network model. The model is trained to classify comments into multiple toxicity categories.
 
+##Demo
+![Demo Screenshot]("demo.png")
+
 ## Files
 
 - `Toxicity.ipynb`: Jupyter notebook containing the code for data preprocessing, model definition, training, evaluation, and prediction using the toxic comment classifier.
